@@ -12,10 +12,13 @@ This Python tool performs network reconnaissance by scanning open ports, identif
 🛠 Tools & Libraries: nmap, socket
 
 ### HOW TOOL WORK OUTPUT #### 
+
 ──(kali㉿kali)-[~/Network-Penetration-Testing-Tool]
 └─$ python Script.py 
 Enter the target IP: 192.168.217.159
+
 Scanning 192.168.217.159...
+
 [+] Port 21 (ftp) is open.
 [+] Port 22 (ssh) is open.
 [+] Port 23 (telnet) is open.
